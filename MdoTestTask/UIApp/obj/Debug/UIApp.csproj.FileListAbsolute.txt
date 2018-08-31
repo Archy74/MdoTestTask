@@ -1,0 +1,11 @@
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\UIApp.exe.config
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\UIApp.exe
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\UIApp.pdb
+C:\Users\Artez\source\repos\MdoTestTask\UIApp\obj\Debug\UIApp.csprojAssemblyReference.cache
+C:\Users\Artez\source\repos\MdoTestTask\UIApp\obj\Debug\UIApp.Properties.Resources.resources
+C:\Users\Artez\source\repos\MdoTestTask\UIApp\obj\Debug\UIApp.csproj.GenerateResource.cache
+C:\Users\Artez\source\repos\MdoTestTask\UIApp\obj\Debug\UIApp.csproj.CoreCompileInputs.cache
+C:\Users\Artez\source\repos\MdoTestTask\UIApp\obj\Debug\UIApp.csproj.CopyComplete
+C:\Users\Artez\source\repos\MdoTestTask\UIApp\obj\Debug\UIApp.exe
+C:\Users\Artez\source\repos\MdoTestTask\UIApp\obj\Debug\UIApp.pdb
+C:\Users\Artez\source\repos\MdoTestTask\UIApp\obj\Debug\UIApp.Client.resources

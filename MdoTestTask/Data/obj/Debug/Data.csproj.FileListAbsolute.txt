@@ -1,0 +1,7 @@
+C:\Users\Artez\source\repos\MdoTestTask\Data\bin\Debug\Data.dll
+C:\Users\Artez\source\repos\MdoTestTask\Data\bin\Debug\Data.pdb
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\Data.dll
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\Data.pdb
+C:\Users\Artez\source\repos\MdoTestTask\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Artez\source\repos\MdoTestTask\Data\obj\Debug\Data.dll
+C:\Users\Artez\source\repos\MdoTestTask\Data\obj\Debug\Data.pdb

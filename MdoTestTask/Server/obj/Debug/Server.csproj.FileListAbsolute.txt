@@ -1,0 +1,15 @@
+C:\Users\Artez\source\repos\MdoTestTask\Server\bin\Debug\Server.exe.config
+C:\Users\Artez\source\repos\MdoTestTask\Server\bin\Debug\Server.exe
+C:\Users\Artez\source\repos\MdoTestTask\Server\bin\Debug\Server.pdb
+C:\Users\Artez\source\repos\MdoTestTask\Server\bin\Debug\Transfer.dll
+C:\Users\Artez\source\repos\MdoTestTask\Server\bin\Debug\Data.dll
+C:\Users\Artez\source\repos\MdoTestTask\Server\bin\Debug\Transfer.pdb
+C:\Users\Artez\source\repos\MdoTestTask\Server\bin\Debug\Data.pdb
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\Server.exe.config
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\Server.exe
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\Server.pdb
+C:\Users\Artez\source\repos\MdoTestTask\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Artez\source\repos\MdoTestTask\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Artez\source\repos\MdoTestTask\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Artez\source\repos\MdoTestTask\Server\obj\Debug\Server.exe
+C:\Users\Artez\source\repos\MdoTestTask\Server\obj\Debug\Server.pdb

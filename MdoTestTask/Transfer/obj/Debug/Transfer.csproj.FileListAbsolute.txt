@@ -1,0 +1,14 @@
+C:\Users\Artez\Documents\GitHub\MailTestTask\MailTestTask\Assembless\Debug\Transfer.dll
+C:\Users\Artez\Documents\GitHub\MailTestTask\MailTestTask\Assembless\Debug\Transfer.pdb
+C:\Users\Artez\Documents\GitHub\MailTestTask\MailTestTask\Transfer\obj\Debug\Transfer.csprojAssemblyReference.cache
+C:\Users\Artez\Documents\GitHub\MailTestTask\MailTestTask\Transfer\obj\Debug\Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Artez\Documents\GitHub\MailTestTask\MailTestTask\Transfer\obj\Debug\Transfer.csproj.CopyComplete
+C:\Users\Artez\Documents\GitHub\MailTestTask\MailTestTask\Transfer\obj\Debug\Transfer.dll
+C:\Users\Artez\Documents\GitHub\MailTestTask\MailTestTask\Transfer\obj\Debug\Transfer.pdb
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\Transfer.dll
+C:\Users\Artez\source\repos\MdoTestTask\Assembless\Debug\Transfer.pdb
+C:\Users\Artez\source\repos\MdoTestTask\Transfer\obj\Debug\Transfer.csprojAssemblyReference.cache
+C:\Users\Artez\source\repos\MdoTestTask\Transfer\obj\Debug\Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Artez\source\repos\MdoTestTask\Transfer\obj\Debug\Transfer.csproj.CopyComplete
+C:\Users\Artez\source\repos\MdoTestTask\Transfer\obj\Debug\Transfer.dll
+C:\Users\Artez\source\repos\MdoTestTask\Transfer\obj\Debug\Transfer.pdb
